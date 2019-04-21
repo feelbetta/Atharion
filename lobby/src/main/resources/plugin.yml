@@ -1,0 +1,7 @@
+name: AtharionLobby
+author: slees
+
+version: beta
+main: com.atharion.lobby.AtharionLobby
+
+depend: [AtharionCommons]

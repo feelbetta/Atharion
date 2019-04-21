@@ -1,0 +1,7 @@
+spawnpoints:
+npc:
+box:
+
+npcs:
+     REALM_SELECTOR:
+         position: null
